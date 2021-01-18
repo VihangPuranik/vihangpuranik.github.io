@@ -1,4 +1,4 @@
-# vihangpuranik.github.io
+vihangpuranik.github.io
 Credits where they are due:
 
 Thanks for downloading this template!
